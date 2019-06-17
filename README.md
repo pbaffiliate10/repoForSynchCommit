@@ -1,0 +1,2 @@
+# repoForSynchCommit
+to run GitHubGitSynchCommitTest
