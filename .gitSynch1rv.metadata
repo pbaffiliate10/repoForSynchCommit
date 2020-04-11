@@ -1,1 +1,1 @@
-{"acl":{"read":"authenticated","write":"authenticated","execute":"authenticated"},"contentType":"application/vnd.scriptr-javascript","userConfig":"userConf"}
+{"acl":{"read":"user2","write":"nobody","execute":"user2"},"contentType":"html"}
